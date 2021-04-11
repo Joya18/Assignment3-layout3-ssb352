@@ -1,0 +1,128 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header1{
+    width: 200px;
+    color:black;
+    background-color: rgb(224, 187, 131);
+    text-align: center;
+    width: 50;
+    float: left;
+  
+
+    }
+    .header2{
+
+    color:black;
+    background-color: rgb(116, 201, 240);
+    text-align: right;
+    width: 1319px;
+    float: left;
+  
+    }
+    .header_perent{
+        overflow: hidden;
+    }
+    
+    
+}
+.parent{
+    overflow: hidden;
+}
+.left_part{
+    color: black;
+    background-color: rgb(201, 105, 193);
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;
+}
+.center_part{
+    color: black;
+    background-color: rgb(207, 223, 151);
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;
+}
+.center_part2{
+    color: black;
+    background-color: rgb(99, 192, 180);
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;}
+
+.right_part{
+    color: black;
+    background-color: rgb(187, 131, 233);
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;
+}
+.parent{
+    overflow: hidden;
+}
+.lower_left_part{
+    color: black;
+    background-color: rgb(80, 132, 228);
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;
+}
+.lower_center_part{
+    color: black;
+    background-color: rgb(22, 136, 107);
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;
+}
+.lower_center_part2{
+    color: black;
+    background-color: rgb(212, 64, 155);
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;}
+
+.lower_right_part{
+    color: black;
+    background-color: rgb(22, 45, 146);
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 45px;
+}
+.parent_2{
+    overflow: hidden;
+}
+.main_content{
+    height: 300PX;
+    color: black;
+    background-color: rgb(218, 198, 175);
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+
+
+}
+.footer{
+        height: 50px;
+        color: black;
+        background-color: rgb(160, 185, 231);
+        text-align: center;
+        padding-top: 30px;
+}
